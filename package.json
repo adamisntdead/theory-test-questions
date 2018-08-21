@@ -1,0 +1,11 @@
+{
+  "name": "theory-test-questions",
+  "version": "1.0.0",
+  "description": "A List Of Sample Questions And Answers About The Irish Driver Theory Test",
+  "main": "data.json",
+  "author": "Adam Kelly",
+  "license": "MIT",
+  "devDependencies": {
+    "x-ray": "^2.3.3"
+  }
+}
